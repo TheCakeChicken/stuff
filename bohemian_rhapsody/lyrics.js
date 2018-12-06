@@ -21,6 +21,7 @@ const lyrics = [
     "Too late, my time has come",
     "Sends shivers down my spine, body's aching all the time",
     "Goodbye, everybody, I've got to go",
+    "Gotta leave you all behind and face the truth",
     "Mama, ooh, (Anyway the wind blows)",
     "I don't want to die",
     "I sometimes wish I'd never been born at all",
